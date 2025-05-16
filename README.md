@@ -75,3 +75,5 @@ Developers	Abdullah Javed, [Add more]
 Abdullah Javed
 [Add your teammates here]
 
+**📄 License**
+This project is for academic purposes under the ENI08112 Software Engineering Methods module at Edinburgh Napier University.
