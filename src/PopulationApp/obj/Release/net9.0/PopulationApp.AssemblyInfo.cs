@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PopulationApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9e0b16a8da19899ca347107e10899a87837c687")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45248f2be971965f3bb79aa16290cec2d2de716e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PopulationApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PopulationApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

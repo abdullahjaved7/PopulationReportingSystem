@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\PopulationReportingSystem\\src\\PopulationApp\\PopulationApp.csproj": {}
+    "C:\\Users\\LENOVO\\Source\\Repos\\PopulationReportingSystem\\src\\PopulationApp\\PopulationApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\PopulationReportingSystem\\src\\PopulationApp\\PopulationApp.csproj": {
+    "C:\\Users\\LENOVO\\Source\\Repos\\PopulationReportingSystem\\src\\PopulationApp\\PopulationApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\PopulationReportingSystem\\src\\PopulationApp\\PopulationApp.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Source\\Repos\\PopulationReportingSystem\\src\\PopulationApp\\PopulationApp.csproj",
         "projectName": "PopulationApp",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\PopulationReportingSystem\\src\\PopulationApp\\PopulationApp.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Source\\Repos\\PopulationReportingSystem\\src\\PopulationApp\\PopulationApp.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\PopulationReportingSystem\\src\\PopulationApp\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Source\\Repos\\PopulationReportingSystem\\src\\PopulationApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
